@@ -3701,7 +3701,7 @@ importers:
         specifier: ^4.0.88
         version: 4.0.88(react@19.2.8)(zod@4.5.4)
       '@assistant-ui/core':
-        specifier: ^0.3.17
+        specifier: ^0.3.18
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.3.12
@@ -4268,7 +4268,7 @@ importers:
   packages/react-ai-sdk:
     dependencies:
       '@assistant-ui/ai-sdk':
-        specifier: ^0.0.4
+        specifier: ^0.0.5
         version: link:../ai-sdk
       '@types/react':
         specifier: '*'
@@ -4518,7 +4518,7 @@ importers:
   packages/react-ink-markdown:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.3.17
+        specifier: ^0.3.18
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.3.12
@@ -4930,7 +4930,7 @@ importers:
   packages/react-streamdown:
     dependencies:
       '@assistant-ui/react-markdown':
-        specifier: ^0.14.14
+        specifier: ^0.14.15
         version: link:../react-markdown
       '@streamdown/cjk':
         specifier: ^1.0.0
@@ -5057,7 +5057,7 @@ importers:
   packages/svelte:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.3.17
+        specifier: ^0.3.18
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.3.12
@@ -5309,7 +5309,7 @@ importers:
   packages/vue:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.3.17
+        specifier: ^0.3.18
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.3.12

@@ -1,5 +1,13 @@
 # @assistant-ui/cloud-ai-sdk
 
+## 0.1.38
+
+### Patch Changes
+
+- [#6799](https://github.com/assistant-ui/assistant-ui/pull/6799) [`c5c303b`](https://github.com/assistant-ui/assistant-ui/commit/c5c303b9592b16041a3d6ff74af803b9805ead95) - fix: preserve manual thread titles when automatic generation is pending ([@Kinfe123](https://github.com/Kinfe123))
+- Updated dependencies [[`c9e03ef`](https://github.com/assistant-ui/assistant-ui/commit/c9e03ef26ac03f8300b29d5a3a562284b72794f2)]:
+  - assistant-cloud@0.1.44
+
 ## 0.1.37
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # assistant-cloud
 
+## 0.1.44
+
+### Patch Changes
+
+- [#6815](https://github.com/assistant-ui/assistant-ui/pull/6815) [`c9e03ef`](https://github.com/assistant-ui/assistant-ui/commit/c9e03ef26ac03f8300b29d5a3a562284b72794f2) - feat: submit feedback for cloud-persisted thread messages ([@okisdev](https://github.com/okisdev))
+
 ## 0.1.43
 
 ### Patch Changes

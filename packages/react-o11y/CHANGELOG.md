@@ -1,5 +1,11 @@
 # @assistant-ui/react-o11y
 
+## 0.0.44
+
+### Patch Changes
+
+- [#6821](https://github.com/assistant-ui/assistant-ui/pull/6821) [`dc6d574`](https://github.com/assistant-ui/assistant-ui/commit/dc6d574751764be6d02638d6576307e602564d7a) - export `SpanPrimitive.ChildByIndex`, which the docs already describe, so a row can be scoped to one span index without wiring `SpanByIndexProvider` by hand ([@okisdev](https://github.com/okisdev))
+
 ## 0.0.43
 
 ### Patch Changes
